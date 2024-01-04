@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-- We need an endpoint that accepts a list of activities.
+- We need an endpoint that accepts a list of activities
 - Each activity describes a successful/unsuccessful attempt to deliver a parcel.
 - We want to calculate an earning statement for each list, considering different tier categories.
 
